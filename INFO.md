@@ -1,5 +1,10 @@
 # Project
 
+```
+[https://www.youtube.com/watch?v=fUVoV8LpwTE]
+[https://github.com/aalleejustadev/Replit-Clone]
+```
+
 ## Create project
 
 ```
@@ -27,4 +32,6 @@ Installing devDependencies:
 - tailwindcss
 - typescript
 ```
+
+Current: 32:41
 
