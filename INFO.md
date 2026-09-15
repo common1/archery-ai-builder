@@ -47,3 +47,9 @@ Installing devDependencies:
 [https://www.youtube.com/watch?v=fUVoV8LpwTE&t=2860s]
 ```
 
+## 03 - Input, Textarea, Badge
+
+```
+[https://www.youtube.com/watch?v=fUVoV8LpwTE&t=4030s]
+```
+
