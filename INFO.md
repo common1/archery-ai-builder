@@ -1,5 +1,7 @@
 # Project
 
+## See also
+
 ```
 [https://www.youtube.com/watch?v=fUVoV8LpwTE]
 [https://github.com/aalleejustadev/Replit-Clone]
@@ -31,6 +33,12 @@ Installing devDependencies:
 - eslint-config-next
 - tailwindcss
 - typescript
+```
+
+## 01 - Shared UI helpers
+
+```
+[https://www.youtube.com/watch?v=fUVoV8LpwTE&t=2449s]
 ```
 
 Current: 32:41
