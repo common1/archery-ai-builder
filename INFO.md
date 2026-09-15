@@ -53,3 +53,9 @@ Installing devDependencies:
 [https://www.youtube.com/watch?v=fUVoV8LpwTE&t=4030s]
 ```
 
+## 04 - Toast provider + root layout
+
+```
+[https://www.youtube.com/watch?v=fUVoV8LpwTE&t=4950s]
+```
+
